@@ -1,0 +1,53 @@
+
+h1 {
+  text-align: center;
+   background-color: pink;
+}
+
+.imagem{
+  
+  text-align: center;
+  margin: 0 auto;
+}
+
+#Identificação{
+  border: 1px solid black;
+  background-color: bisque;
+  text-align: center;
+  font-size: 30px;
+}
+
+#formaçãoacadêmica{
+  border: 1px solid black;
+  background-color: bisque;
+  text-align: center;
+  font-size: 30px;
+}
+
+#AtuaçãoProfissional{
+  border: 1px solid black;
+  background-color: bisque;
+  text-align: center;
+  font-size: 30px;
+}
+
+#Hobbies{
+  border: 1px solid black;
+  background-color: bisque;
+  text-align: center;
+  font-size: 30px;
+}
+
+#Contato{
+  border: 1px solid black;
+  background-color: bisque;
+  text-align: center;
+  font-size: 30px;
+}
+
+#Formulario{
+  border: 1px solid black;
+  background-color: bisque;
+  text-align: center;
+  font-size: 30px;
+}
